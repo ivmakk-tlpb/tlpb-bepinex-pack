@@ -1,0 +1,5 @@
+dist/
+cache/
+tests/fixtures/
+tests/LoadCheck/bin/
+tests/LoadCheck/obj/

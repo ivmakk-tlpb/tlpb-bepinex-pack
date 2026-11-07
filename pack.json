@@ -1,0 +1,12 @@
+{
+  "build": "6.0.0-be.793",
+  "commit": "dbc82f05b8ea34833de5b6a723eb60dd8398e0b1",
+  "archive": "BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.793+dbc82f0.zip",
+  "url": "https://builds.bepinex.dev/projects/bepinex_be/793/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.793%2Bdbc82f0.zip",
+  "sha256": "5B63D7D0E92A2448CCD13B738FF95FF1CC1026C6D718555D4DF8E6C824953AC4",
+  "unityLibs": {
+    "version": "2021.3.45",
+    "url": "https://unity.bepinex.dev/libraries/2021.3.45.zip",
+    "sha256": "3CFDE1613715C966CB8084087C37081ED5896871B39194D45A907A69DD7DA9E5"
+  }
+}
