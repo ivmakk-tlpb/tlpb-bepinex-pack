@@ -2,8 +2,8 @@
 
 - Title: BepInEx Pack for The Last Plague: Blight
 - Game domain: `thelastplagueblight` (add-mod page: https://www.nexusmods.com/thelastplagueblight/mods/add)
-- Mod id and URL: `{{BEPINEX_PACK_MOD_ID}}`, recorded after the page exists.
-- Category: `{{CATEGORY}}`, chosen by the user in the Nexus form (Utilities, or the closest category the game offers for tools and frameworks).
+- Mod id and URL: `9`, https://www.nexusmods.com/thelastplagueblight/mods/9 (published on 2026-11-07).
+- Category: Miscellaneous (the game has no category for tools and frameworks).
 - Version: `6.0.0-be.793` (the BepInEx build identifier, with `.2`, `.3` for a repack of the same build, for example `6.0.0-be.793.2`)
 - File name under Manage Files: `BepInEx Pack 6.0.0-be.793`, the zip `BepInExPack_TheLastPlagueBlight-6.0.0-be.793.zip`, marked as the main file. It is the same zip as the GitHub Release asset. Also mark it with "Set as primary file for download": the top Manual download button of the page gives the primary file.
 - Optional file under Manage Files: `Unity libraries 2021.3.45`, the raw zip `dist/2021.3.45.zip` (the file of `unity.bepinex.dev`, the same as the GitHub mirror), category Optional files, version `2021.3.45`, with "Allow mod manager download" off (it is not a mod). Never a zip that holds another zip: Nexus quarantines an archive inside an archive. When the game moves to a new Unity version, upload the new file and remove the old one (README, "A new Unity version of the game"). File description (plain text, at most 255 characters):

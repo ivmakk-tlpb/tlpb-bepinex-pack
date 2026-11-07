@@ -10,7 +10,7 @@ Most mods for the Steam game [The Last Plague: Blight](https://store.steampowere
 
 ## Install
 
-Close the game. Download `BepInExPack_TheLastPlagueBlight-6.0.0-be.793.zip` from [Releases](https://github.com/ivmakk-tlpb/tlpb-bepinex-pack/releases) or from [Nexus Mods](https://www.nexusmods.com/thelastplagueblight/mods/{{BEPINEX_PACK_MOD_ID}}). The two files are the same.
+Close the game. Download `BepInExPack_TheLastPlagueBlight-6.0.0-be.793.zip` from [Releases](https://github.com/ivmakk-tlpb/tlpb-bepinex-pack/releases) or from [Nexus Mods](https://www.nexusmods.com/thelastplagueblight/mods/9). The two files are the same.
 
 1. Extract the zip into `C:\Program Files (x86)\Steam\steamapps\common\The Last Plague` *(if you installed Steam or the game elsewhere, find the folder in your Steam Library: right-click The Last Plague: Blight > Manage > Browse local files)*.
 2. Start the game from Steam. Wait for the main menu, then quit before installing mods.
@@ -51,7 +51,7 @@ On the first start, BepInEx downloads the Unity libraries of the game, `2021.3.4
 
 1. Close the game.
 2. Download the Unity libraries zip from one of these places:
-   - `Unity libraries 2021.3.45` in the optional files of the [Files tab of the Nexus page](https://www.nexusmods.com/thelastplagueblight/mods/{{BEPINEX_PACK_MOD_ID}}?tab=files)
+   - `Unity libraries 2021.3.45` in the optional files of the [Files tab of the Nexus page](https://www.nexusmods.com/thelastplagueblight/mods/9?tab=files)
    - the BepInEx site: `https://unity.bepinex.dev/libraries/2021.3.45.zip`
    - the mirror on GitHub, an asset of the latest release of this pack: `https://github.com/ivmakk-tlpb/tlpb-bepinex-pack/releases/latest/download/2021.3.45.zip`. GitHub shows its SHA-256 on the release page.
 3. Rename the file to exactly `2021.3.45.zip`. The Nexus download has a longer name, with the mod id, the version, and a date after `Unity libraries 2021.3.45`.
